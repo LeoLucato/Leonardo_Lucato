@@ -1,4 +1,4 @@
 # Leonardo_Lucato
 
-Formação Acadêmica 
+## Formação Acadêmica 
 - Cursando TADS - Uninove (2019 - 20xx)
