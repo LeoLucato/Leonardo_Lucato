@@ -1,2 +1,4 @@
 # Leonardo_Lucato
-Just for learn
+
+Formação Acadêmica 
+- Cursando TADS - Uninove (2019 - 20xx)
